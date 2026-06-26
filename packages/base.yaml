@@ -15,7 +15,7 @@ substitutions:
   node_add_mac_suffix: "true"
 
   vport_version: "master" #2023.2.0
-  vport_source: github://Koguni31/esphome-components@$vport_version
+  vport_source: github://dentra/esphome-components@$vport_version
   vport_source_refresh: 1d
 
 esphome:
