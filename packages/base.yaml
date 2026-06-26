@@ -4,7 +4,7 @@ substitutions:
   # project_version: $project_branch
   project_version: 2025-master
   # project git source
-  project_source: github://dentra/esphome-ewh@$project_branch
+  project_source: github://Koguni31/esphome-ewh@$project_branch
   # project source refresh interval
   project_source_refresh: 12h
   # node name
@@ -15,7 +15,7 @@ substitutions:
   node_add_mac_suffix: "true"
 
   vport_version: "master" #2023.2.0
-  vport_source: github://dentra/esphome-components@$vport_version
+  vport_source: github://Koguni31/esphome-components@$vport_version
   vport_source_refresh: 1d
 
 esphome:
